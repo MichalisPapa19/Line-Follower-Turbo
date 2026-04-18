@@ -15,6 +15,7 @@ This robot is built to navigate complex tracks at high speeds. Unlike standard l
 * **Custom PCB:** Designed in **EasyEDA**, optimized for low noise and compact footprint.
 * **Sensor Array:** 16x **QRE1113GR** miniature reflectance sensors for high-density line tracking.
 * **Signal Multiplexing:** Integrated **CD74HC4067** 16-channel analog multiplexer to handle the large sensor array using minimal I/O pins.
+* **Turbine:** 30mm EDF with a 7000KV Brushless Motor.
 * **Motor Driver:** **TB6612FNG** dual-channel H-Bridge for efficient and responsive motor control.
 * **Power System:** [Insert your battery type here, e.g., 11.1V 3S LiPo].
 
