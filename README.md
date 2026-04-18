@@ -1,5 +1,8 @@
 # 🏎️ High-Speed Line Follower Turbo Robot
 
+<img width="766" height="471" alt="Screenshot_2" src="https://github.com/user-attachments/assets/f2f34b1a-0e16-4045-bb2d-5c5c47de90ce" />
+
+
 A high-performance autonomous robot engineered for speed and precision. This project showcases a complete engineering cycle: from custom PCB design and sensor fusion to advanced control algorithms.
 
 ## 🌟 Overview
@@ -13,7 +16,15 @@ This robot is built to navigate complex tracks at high speeds. Unlike standard l
 * **Sensor Array:** 16x **QRE1113GR** miniature reflectance sensors for high-density line tracking.
 * **Signal Multiplexing:** Integrated **CD74HC4067** 16-channel analog multiplexer to handle the large sensor array using minimal I/O pins.
 * **Motor Driver:** **TB6612FNG** dual-channel H-Bridge for efficient and responsive motor control.
-* **Power System:** [Insert your battery type here, e.g., 7.4V 2S LiPo].
+* **Power System:** [Insert your battery type here, e.g., 11.1V 3S LiPo].
+
+  <img width="915" height="476" alt="Screenshot_4" src="https://github.com/user-attachments/assets/e29275b0-ed47-42f6-b2b2-d91cebb6cabe" />
+  
+  <img width="865" height="540" alt="Screenshot_5" src="https://github.com/user-attachments/assets/4b59b113-3b8a-4410-9345-eb32c4b3209a" />
+
+<img width="798" height="561" alt="Screenshot_3" src="https://github.com/user-attachments/assets/c4fb593c-b512-4b3a-9961-ba2de94e9bc8" />
+
+  
 
 ### Software & Control
 * **PID Control:** Implementation of a Proportional-Integral-Derivative controller for precise line centering.
@@ -35,6 +46,6 @@ This robot is built to navigate complex tracks at high speeds. Unlike standard l
 This project is licensed under the **MIT License** - feel free to use and modify it!
 
 ## 👨‍💻 Author
-**[Το Ονοματεπώνυμό Σου]**
+**Michil Papaioannou**
 *Graduate Engineer in Informatics, Computer and Telecommunications Engineering*
-*Special Forces Veteran | Robotics & IoT Enthusiast*
+*Robotics & IoT Enthusiast*
